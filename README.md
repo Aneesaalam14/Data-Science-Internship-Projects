@@ -1,4 +1,4 @@
-# Task 1 – Machine Learning Internship
+# Task 1 – Data Science Internship
 
 This project is part of my Data Science Internship. I analyzed data using Python and created visualizations to find insights.
 
